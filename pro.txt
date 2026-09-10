@@ -1,0 +1,4 @@
+Hi goodmorning 
+first devops lab class initialization 
+beginning of the lab class
+basics of github
